@@ -76,7 +76,7 @@ speed: 1000,
 speedAsDuration: true
 });
 
-
+console.log('Hello');
 
 
 
